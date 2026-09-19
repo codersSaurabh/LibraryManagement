@@ -29,7 +29,7 @@ SECRET_KEY = 'django-insecure-&=xj%)5r6tzqve@r9ox2ubw051u22^c7rcrx_4z=#e!!6sqk@e
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['shiva-kunj-library.onrender.com','127.0.0.1','shivakunjlibrary.in','www.shivakunjlibrary.in',"library-management-25hb02r3m-saurabh-pandeys-projects-b13d712a.vercel.app"]
+ALLOWED_HOSTS = ['library-management-b13p1mnyz-saurabh-pandeys-projects-b13d712a.vercel.app','shiva-kunj-library.onrender.com','127.0.0.1','shivakunjlibrary.in','www.shivakunjlibrary.in']
 
 
 # Application definition
